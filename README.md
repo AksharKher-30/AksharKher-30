@@ -12,7 +12,6 @@ I'm a curious and driven software enthusiast who loves building, learning, and s
 - 🌐 **Frontend Development** (React.js)
 - ⚔️ **Competitive Programming**
 - 📚 **Research & Innovation**
-- 🧱 **Web3 & Blockchain** *(eager to explore soon)*
 
 ---
 
